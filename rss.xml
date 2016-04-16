@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Referendum Trivelle - SI o NO?]]></title>
+        <description><![CDATA[Referendum Trivelle - SI o NO?]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 16 Apr 2016 17:18:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Perché Votare NO</p>]]></description>
+            <link>undefinedperche-votare-no/index.html</link>
+            <guid isPermaLink="false">31df27a8-0a2d-4ae9-98a7-64712b2169bb</guid>
+            <pubDate>Sat, 16 Apr 2016 17:17:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
